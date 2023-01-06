@@ -1,6 +1,6 @@
 # NYC-DS-010923
 
-A repository for all study group or optional review resources for the Flatiron School's NYC Data Science Full-Time 010923 Cohort
+A repository for all study group or optional review resources for the Flatiron School's NYC Data Science 010923 Cohort
 
 ![confused math lady gif from giphy](https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif)
 
